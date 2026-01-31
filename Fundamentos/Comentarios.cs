@@ -8,8 +8,14 @@ namespace CursoCSharp.Fundamentos
     {
         public static void Executar()
         {
-            Console.WriteLine("ola");
+            Console.WriteLine("ola, uma linha só");
             // comentario
+
+            Console.WriteLine("varias linhas comentarios");
+            /*
+              comentario de
+              varias linhas
+             */
         }
     }
 }
