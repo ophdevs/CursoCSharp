@@ -8,8 +8,4 @@
     <StartupObject>CursoCSharp.Program</StartupObject>
   </PropertyGroup>
 
-  <ItemGroup>
-    <Compile Remove="Fundamentos\NotacaoPonto.cs" />
-  </ItemGroup>
-
 </Project>
