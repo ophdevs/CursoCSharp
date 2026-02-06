@@ -1,0 +1,15 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace CursoCSharp.Fundamentos
+{
+    class NotacaoPontos
+    {
+        public static void Executar()
+        {
+            var saudacao = "Olá".ToUpper().Insert(3, " World").Replace("World", "Mundo").ToLower().Trim();
+            Console.WriteLine(saudacao);
+        }
+    }
+}
