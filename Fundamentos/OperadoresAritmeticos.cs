@@ -20,6 +20,7 @@ namespace CursoCSharp.Fundamentos
             Console.WriteLine("A metade do preço é " + divisao);
             var resto = 7 % 3;
             Console.WriteLine("O resto da divisão de 7 por 3 é " + resto);
+            Console.WriteLine("ola");
         }
     }
 }
