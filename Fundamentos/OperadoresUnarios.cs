@@ -10,7 +10,7 @@ namespace CursoCSharp.Fundamentos
         {
             var valorNegativo = -5;
             var valorPositivo = +valorNegativo; // o operador + não altera o valor
-            Console.WriteLine(valorPositivo);
+            Console.WriteLine(valorPositivo); // saída: -5
             valorPositivo = -valorNegativo;
             Console.WriteLine(valorPositivo);
             int numero = 5;
