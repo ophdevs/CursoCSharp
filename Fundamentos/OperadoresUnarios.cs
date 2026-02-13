@@ -15,7 +15,7 @@ namespace CursoCSharp.Fundamentos
             Console.WriteLine(valorPositivo);
             int numero = 5;
             Console.WriteLine("Incremento: " + ++numero);
-            Console.WriteLine("Decremento: " + --numero);
+            Console.WriteLine("Decremento: " + --numero); // decrementa o numero e depois exibe
         }
     }
 }
