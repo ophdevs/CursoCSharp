@@ -25,6 +25,7 @@ namespace CursoCSharp {
                 {"Operador Ternario - Fundamentos", OperadorTernario.Executar },
                 // Estrutura de Controle
                 {"Estrutura If - Estrutura De Controle", EstruturaIf.Executar },
+                {"Estrutura If Else - Estrutura De Controle", EstruturaIfElse.Executar },
 
 
             });

@@ -21,7 +21,7 @@ namespace CursoCSharp.EstruturaDeControle
             {
                 bomComportamento = true;
             }
-            
+
 
             if (nota >= 9 && bomComportamento)
             {
