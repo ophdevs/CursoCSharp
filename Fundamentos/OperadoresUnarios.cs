@@ -13,9 +13,14 @@ namespace CursoCSharp.Fundamentos
             Console.WriteLine(valorPositivo); // saída: -5
             valorPositivo = -valorNegativo;
             Console.WriteLine(valorPositivo); // saída: 5
-            int numero = 5;
+            int numero = 0;
             Console.WriteLine("Incremento: " + ++numero); // incrementa o numero e depois exibe
             Console.WriteLine("Decremento: " + --numero); // decrementa o numero e depois exibe
+
+            while (numero <= 10 ) {
+                Console.WriteLine(numero);
+                numero++; 
+            }
         }
     }
 }
