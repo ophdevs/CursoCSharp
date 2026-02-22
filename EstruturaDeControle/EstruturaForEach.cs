@@ -15,12 +15,13 @@ namespace CursoCSharp.EstruturaDeControle
                 Console.WriteLine(letra);
             }
 
-             var alunos = new string[] {"Ana", "Bia", "Carlos"}; //percorre cada elemento do array de string e atribui a variavel aluno
+            var alunos = new string[] { "Ana", "Bia", "Carlos" }; //percorre cada elemento do array de string e atribui a variavel aluno
 
             foreach (var aluno in alunos)
-             {
-                 Console.WriteLine(aluno);
+            {
+                Console.WriteLine(aluno);
             }
+
         }
     }
 }
