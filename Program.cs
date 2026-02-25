@@ -4,6 +4,7 @@ using System.Collections.Generic;
 using CursoCSharp.Fundamentos;
 using CursoCSharp.EstruturaDeControle;
 using CursoCSharp.Exercicios;
+using CursoCSharp.ClassesEMetodos;
 
 namespace CursoCSharp {
     class Program {
@@ -37,6 +38,9 @@ namespace CursoCSharp {
                 { "Usando Continue - Estrutura De Controle", UsandoContinue.Executar},
                 // Exercicios
                 { "Sistema caixa eletronico - Exercicios", ExercicioCaixaEletronico.Executar},
+                { "Sistema Cadastrar Alunos - Exercicios", ExercicioCadastrarAluno.Executar},
+                //Classes e Metodos
+                { "Membros - Classes e Metodos", Membros.Executar},
 
 
             });

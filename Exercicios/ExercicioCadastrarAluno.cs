@@ -9,12 +9,9 @@ namespace CursoCSharp.Exercicios
         public static void Executar() 
         {
             Console.WriteLine("Cadastro alunos");
-            bool sair = true;
+            
 
-            switch (true) 
-            {
-                if
-            }
+            
         
         }
     }
