@@ -41,6 +41,7 @@ namespace CursoCSharp {
                 { "Sistema Cadastrar Alunos - Exercicios", ExercicioCadastrarAluno.Executar},
                 //Classes e Metodos
                 { "Membros - Classes e Metodos", Membros.Executar},
+                { "Construtores - Classes e Metodos", Construtores.Executar},
 
 
             });
