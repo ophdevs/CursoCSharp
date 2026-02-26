@@ -46,6 +46,7 @@ namespace CursoCSharp.ClassesEMetodos
 
 
             Console.WriteLine($"{carro3.Modelo} {carro3.Fabricante} {carro3.Ano}");
+            Console.WriteLine(carro2.Modelo);
         }
     }
 }
