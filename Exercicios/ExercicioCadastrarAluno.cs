@@ -9,8 +9,8 @@ namespace CursoCSharp.Exercicios
         public static void Executar() 
         {
             Console.WriteLine("Cadastro alunos");
-            
 
+            Console.WriteLine("Aprendendo git");
             
         
         }
