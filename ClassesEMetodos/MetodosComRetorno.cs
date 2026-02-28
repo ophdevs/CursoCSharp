@@ -4,7 +4,7 @@ using System.Text;
 
 namespace CursoCSharp.ClassesEMetodos
 {
-    class CalculadoraComum
+    class CalculadoraComum // calculadora comum 
     {
         public int Somar(int a, int b)
         {
@@ -26,7 +26,7 @@ namespace CursoCSharp.ClassesEMetodos
         }
     }
 
-    class CalculadoraCadeia
+    class CalculadoraCadeia // calculadora que salva o resultado na memoria
     {
         int memoria;
 
