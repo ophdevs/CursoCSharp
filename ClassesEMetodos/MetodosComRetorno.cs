@@ -81,7 +81,7 @@ namespace CursoCSharp.ClassesEMetodos
 
             resultado = calculadoraCadeia.Somar(10).Multiplicar(2).Resultado();
 
-            Console.WriteLine(resultado);
+            Console.WriteLine("teste");
 
 
         }
